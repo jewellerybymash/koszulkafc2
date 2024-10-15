@@ -22,8 +22,7 @@
 ">
 <meta name="keywords" content="FC-Barcelona-ShirtReal-Madrid-ShirtPoland-National-Team-ShirtManchester-United-ShirtArsenal-Shirt
 ">
-<meta name="google-site-verification" content="ZwFoNypImBjm5Agh5kNB1q1d_PFXx7rmL5eoX7owPKo" />
-  
+<meta name="google-site-verification" content="jI7tc73CYAIsbKoMJkDOQJCyZcAQqUcGYB9SxY4lPyE" />  
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
